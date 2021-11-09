@@ -8,7 +8,7 @@ $data=[
 ];
 ?>
 <br>
-<a href="../hommik.php">tagasi... Ulesanne</a>
+<a href="../home.php">tagasi... Ulesanne</a>
 <h1>Ulesanne 401</h1>
 
 <p> <b>
