@@ -9,6 +9,8 @@
     <title>Ulesanne 403</title>
 </head>
 <h1>Ulesanne 403</h1>
+<a href="../home.php">tagasi... Ulesanne</a>
+<br>
 
 <?php
 $varv=array('Gold', 'CornflowerBlue', 'Coral', 'Blue', 'Azure', 'Aqua', 'Black','GhostWhite', 'Crimson', 'Cyan', 'AliceBlue', "Red", "Yellow", "Chocolate", "Orange");
@@ -17,4 +19,5 @@ for ($i =0; $i <15; $i++){
     echo "<span style='color: $varv[$i]'>$varv[$i]</span><br>";
 }
 ?>
+
 </html>
